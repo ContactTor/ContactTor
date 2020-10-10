@@ -28,8 +28,8 @@ public class PostFragment extends Fragment {
 
     public static final String TAG = "PostFragment";
     private RecyclerView rvPosts;
-    private PostAdapter adapter;
-    private List<Post> allPosts;
+    protected PostAdapter adapter;
+    protected List<Post> allPosts;
     public PostFragment() {
         // Required empty public constructor
     }
@@ -56,7 +56,7 @@ public class PostFragment extends Fragment {
          queryPosts();
     }
 
-    private void queryPosts() {
+    protected void queryPosts() {
         ParseQuery<Post> query = ParseQuery.getQuery(Post.class);
         query.include(Post.KEY_USER);
         query.setLimit(20);
