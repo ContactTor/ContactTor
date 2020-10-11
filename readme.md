@@ -64,7 +64,7 @@ Describe any challenges encountered while building the app.
     limitations under the License.
 
 
-# Project 3 - *Instagram*
+# Project 3 - *Instagram_CLone Part 1*
 
 **Instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
