@@ -14,7 +14,7 @@
         android:layout_height="match_parent"
         android:layout_above="@+id/bottomNavigation"
         android:layout_alignParentStart="true"
-        android:layout_marginBottom="-246dp" />
+        android:layout_marginBottom="108dp" />
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottomNavigation"
