@@ -13,12 +13,12 @@ ContactTor is an app designed for persons to log the people who they have been i
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Social Networking
+- **Mobile:** This app would be primarily developed for mobile.
+- **Story:** Allows user to enter the persons who they’ve been in contact with. 
+- **Market:** This app is geared towards anyone who desires to use it for contact tracing purposes.
+- **Habit:** This app could be used as often or unoften as the user desires.
+- **Scope:** We would start by creating a tree like structure with indiviuals the user has been in contact with and if that user is also a user of the app then the tree would branch showing who that user was in contact with.
 
 ## Product Spec
 
