@@ -50,10 +50,9 @@ ContactTor is an app designed for persons to log the people who they have been i
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
-
+* Login / Registration
+* Home
+* Log out
 **Flow Navigation** (Screen to Screen)
 
 * [list first screen here]
