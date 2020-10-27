@@ -67,4 +67,4 @@ ContactTor is an app designed for persons to log the people who they have been i
 <img src="https://github.com/ContactTor/ContactTor/blob/main/Digital%20Wireframe.png" width=600>
 
 ### [BONUS] Interactive Prototype
-<img src="https://github.com/ContactTor/ContactTor/blob/main/Digital%20Wireframe.png" width=600>
+<img src="https://github.com/ContactTor/ContactTor/blob/main/Prototype.gif" width=600>
