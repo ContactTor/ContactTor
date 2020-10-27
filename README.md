@@ -9,7 +9,7 @@
 
 ## Overview
 ### Description
-[ContactTor is an app designed for persons to log the people who they have been in contact with to make the contact tracing process easier in the event that said individual was to contract the COVID-19 Virus.]
+ContactTor is an app designed for persons to log the people who they have been in contact with to make the contact tracing process easier in the event that said individual was to contract the COVID-19 Virus.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
