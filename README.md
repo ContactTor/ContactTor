@@ -53,6 +53,7 @@ ContactTor is an app designed for persons to log the people who they have been i
 * Login / Registration
 * Home
 * Log out
+
 **Flow Navigation** (Screen to Screen)
 
 * Log-in -> Account creation if no log in is available
@@ -63,6 +64,6 @@ ContactTor is an app designed for persons to log the people who they have been i
 ## Wireframes
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://github.com/ContactTor/ContactTor/blob/main/Digital%20Wireframe.png" width=600>
 
 ### [BONUS] Interactive Prototype
