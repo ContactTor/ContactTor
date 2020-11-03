@@ -78,11 +78,9 @@ ContactTor is an app designed for persons to log the people who they have been i
    | Property      | Type     | Description |
    | ------------- | -------- | ------------|
    | objectId      | String   | unique id for the user post (default field) |
-   | author        | Pointer to User| image author |
-   | image         | File     | image that user posts |
-   | caption       | String   | image caption by author |
-   | commentsCount | Number   | number of comments that has been posted to an image |
-   | likesCount    | Number   | number of likes for the post |
+   | author        | Pointer to User| post author |
+   | p_image       | File     | Profile picture |
+   | description   | String   | location description by author |
    | createdAt     | DateTime | date when post is created (default field) |
    | updatedAt     | DateTime | date when post is last updated (default field) |
 ### Networking
