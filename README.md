@@ -28,7 +28,7 @@ ContactTor is an app designed for persons to log the people who they have been i
 
 * [X] Log in / Registration Screen.
 * [X] Compose Screen to allow the user to add information about who they’ve been in contact with.
-* [ ] Home Screen to see the contact tree created.
+* [X] Home Screen to see the contact tree created.
 * [ ] Log out screen.
   
 **Optional Nice-to-have Stories**
@@ -118,4 +118,8 @@ ContactTor is an app designed for persons to log the people who they have been i
     `GET`    | /characters/?name=name | return specific character by name
     `GET`    | /houses   | get all houses
     `GET`    | /houses/?name=name | return specific house by name
+    
+### Interactive Prototype
+<img src="https://github.com/ContactTor/ContactTor/blob/main/Cantactor.gif" width=600>
+<img src=contactro.gif width=400>
 
