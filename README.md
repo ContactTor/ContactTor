@@ -121,5 +121,3 @@ ContactTor is an app designed for persons to log the people who they have been i
     
 ### Interactive Prototype
 <img src="https://github.com/ContactTor/ContactTor/blob/main/Cantactor.gif" width=600>
-<img src=contactro.gif width=400>
-
