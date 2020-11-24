@@ -29,7 +29,7 @@ ContactTor is an app designed for persons to log the people who they have been i
 * [X] Log in / Registration Screen.
 * [X] Compose Screen to allow the user to add information about who they’ve been in contact with.
 * [X] Home Screen to see the contact tree created.
-* [ ] Log out screen.
+* [X] Log out screen.
   
 **Optional Nice-to-have Stories**
 
