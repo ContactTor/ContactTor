@@ -33,8 +33,8 @@ ContactTor is an app designed for persons to log the people who they have been i
   
 **Optional Nice-to-have Stories**
 
-* [ ] Able to message persons from in the app 
-* [ ] Profile Screen to add personal information and a profile picture
+* [X] Able to message persons from in the app 
+* [X] Profile Screen to add personal information and a profile picture
 
 ### 2. Screen Archetypes
 
